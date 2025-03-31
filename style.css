@@ -1,8 +1,53 @@
-/* Only show horizontal lines */
-th, td {
-  border-bottom: 1px solid black; /* Or use border-bottom if preferred */
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
 }
 
-table {
-  border-collapse: collapse; /* Ensures borders don't overlap */
+table tr:nth-child(1) {
+    font-size: 32px;
+}
+
+table tr:nth-child(2) {
+    font-size: 24px; /* Medium-large text */
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: none;
+    border-radius: 10px 10px 0 0; /* Curved corners */
+}
+
+table tr:nth-child(3) {
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-top: none;
+    border-radius: 0 0 10px 10px; /* Curved corners */
+}
+
+table tr:nth-child(3)::before {
+    content: "";
+    margin-bottom: 10px; /* Space between 3rd and 4th row */
+}
+
+table tr:nth-child(4n+2) {
+    font-size: 24px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: none;
+    border-radius: 10px 10px 0 0;
+}
+
+table tr:nth-child(4n+3) {
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+}
+
+table tr:nth-child(4n+3)::before {
+    content: "";
+    margin-bottom: 10px; /* Space between repeating 3rd and 4th rows */
 }
