@@ -21,20 +21,22 @@
         padding: 10px;
     }
 
- /* Headers in table */
+/* Headers in table */
 thead tr th {
     font-size: $font-size-10 !important; /* Largest font size */
     text-align: right;
 }
 
 /* Odd rows (1st, 3rd, etc.) */
-tbody tr:nth-child(2n+1) {
+table tbody tr:nth-child(2n+1) th,
+table tbody tr:nth-child(2n+1) td {
     font-size: $font-size-8 !important; /* Medium size text */
     border-top: 2px solid #000;
 }
 
 /* Even rows (2nd, 4th, etc.) */
-tbody tr:nth-child(2n+2) {
+table tbody tr:nth-child(2n+2) th,
+table tbody tr:nth-child(2n+2) td {
     font-size: $font-size-6 !important; /* Smaller text size */
     border-bottom: 2px solid #000;
 }
