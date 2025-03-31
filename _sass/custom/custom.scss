@@ -21,24 +21,22 @@
         padding: 10px;
     }
 
-    /* Format <thead> */
-    thead tr th {
-        font-size: 32px !important;
-        text-align: right;
-    }
+ /* Headers in table */
+thead tr th {
+    font-size: $font-size-10 !important; /* Largest font size */
+    text-align: right;
+}
 
-    /* Style for odd rows (1st, 3rd, 5th, etc.) */
-    tbody tr:nth-child(2n+1) {
-        font-size: 64px !important; /* Medium Large text */
-        border-top: 2px solid #000; /* Add a top border line */
-    }
+/* Odd rows (1st, 3rd, etc.) */
+tbody tr:nth-child(2n+1) {
+    font-size: $font-size-8 !important; /* Medium size text */
+    border-top: 2px solid #000;
+}
 
-    /* Style for even rows (2nd, 4th, 6th, etc.) */
-    tbody tr:nth-child(2n+2) {
-        font-size: 18px !important; 
-        border-bottom: 2px solid #000; /* Add a top border line */
-        /* Default normal text */
-        /* Rounded edges at the bottom */
-    }
+/* Even rows (2nd, 4th, etc.) */
+tbody tr:nth-child(2n+2) {
+    font-size: $font-size-6 !important; /* Smaller text size */
+    border-bottom: 2px solid #000;
+}
 
 
