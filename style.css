@@ -1,0 +1,5 @@
+/* Apply styles to table headers and cells only */
+th, td {
+  border: 1px solid black; /* Border around headers and cells */
+  border-radius: 10px;    /* Rounded corners */
+}
