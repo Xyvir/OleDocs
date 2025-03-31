@@ -30,7 +30,8 @@ thead tr th {
 /* Odd rows (1st, 3rd, etc.) */
 table tbody tr:nth-child(2n+1) th,
 table tbody tr:nth-child(2n+1) td {
-    font-size: $font-size-10-sm !important; /* Medium size text */
+    text-align: right;
+    font-size: $font-size-10 !important; /* Medium size text */
     border-top: 2px solid #000;
 }
 
