@@ -25,7 +25,15 @@
 thead tr th {
     font-size: $font-size-10 !important; /* Largest font size */
     text-align: right;
+    border-left: none !important;
+    border-right: none !important;
 }
+
+table th, 
+table td {
+    border-left: none !important;
+    border-right: none !important;
+)
 
 /* Odd rows (1st, 3rd, etc.) */
 table tbody tr:nth-child(2n+1) th,
