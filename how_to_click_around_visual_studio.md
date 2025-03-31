@@ -1,6 +1,6 @@
 ---
 title: How to Click Around Visual Studio
-layout: Default
+layout: default
 ---
 
 | how to click around visual studio ||
