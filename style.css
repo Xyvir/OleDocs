@@ -1,53 +1,22 @@
 table {
     border-collapse: separate;
-    border-spacing: 0;
+    border-spacing: 0 10px; /* Creates slight separation between row bubbles */
     width: 100%;
 }
-
-table tr:nth-child(1) {
-    font-size: 32px;
+td {
+    padding: 10px;
 }
-
-table tr:nth-child(2) {
-    font-size: 24px; /* Medium-large text */
-    border-left: 3px solid black;
-    border-top: 3px solid black;
-    border-right: 3px solid black;
-    border-bottom: none;
-    border-radius: 10px 10px 0 0; /* Curved corners */
+.row1 {
+    font-size: 24px; /* Medium Large text */
+    border-left: 2px solid #000;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+    border-radius: 10px 10px 0 0; /* Rounded edges at the top */
 }
-
-table tr:nth-child(3) {
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
-    border-top: none;
-    border-radius: 0 0 10px 10px; /* Curved corners */
-}
-
-table tr:nth-child(3)::before {
-    content: "";
-    margin-bottom: 10px; /* Space between 3rd and 4th row */
-}
-
-table tr:nth-child(4n+2) {
-    font-size: 24px;
-    border-left: 3px solid black;
-    border-top: 3px solid black;
-    border-right: 3px solid black;
-    border-bottom: none;
-    border-radius: 10px 10px 0 0;
-}
-
-table tr:nth-child(4n+3) {
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
-    border-top: none;
-    border-radius: 0 0 10px 10px;
-}
-
-table tr:nth-child(4n+3)::before {
-    content: "";
-    margin-bottom: 10px; /* Space between repeating 3rd and 4th rows */
+.row2 {
+    font-size: 18px; /* Default normal text */
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    border-radius: 0 0 10px 10px; /* Rounded edges at the bottom */
 }
