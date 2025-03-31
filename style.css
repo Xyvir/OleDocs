@@ -1,6 +1,6 @@
 /* Only show horizontal lines */
 th, td {
-  border-top: 1px solid black; /* Or use border-bottom if preferred */
+  border-bottom: 1px solid black; /* Or use border-bottom if preferred */
 }
 
 table {
