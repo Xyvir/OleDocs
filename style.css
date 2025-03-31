@@ -3,17 +3,22 @@ table {
     border-spacing: 0 10px; /* Creates slight separation between row bubbles */
     width: 100%;
 }
+
 td {
     padding: 10px;
 }
-.row1 {
+
+/* Style for odd rows (1st, 3rd, 5th, etc.) */
+tbody tr:nth-child(4n+1) {
     font-size: 24px; /* Medium Large text */
     border-left: 2px solid #000;
     border-top: 2px solid #000;
     border-right: 2px solid #000;
     border-radius: 10px 10px 0 0; /* Rounded edges at the top */
 }
-.row2 {
+
+/* Style for even rows (2nd, 4th, 6th, etc.) */
+tbody tr:nth-child(4n+2) {
     font-size: 18px; /* Default normal text */
     border-left: 2px solid #000;
     border-right: 2px solid #000;
