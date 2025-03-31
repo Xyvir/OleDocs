@@ -18,8 +18,7 @@ title: How to use Forums and Discussion Board Assignments in Course Builder
 | #3 ||
 | In Course Builder, under Home, click on the "Discussion" menu item. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/03-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #4 ||
-| You will see all existing "Forums" in the Left Panel. Click into an existing Forum to view it's contents.
- |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/04-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
+| You will see all existing "Forums" in the Left Panel. Click into an existing Forum to view it's contents. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/04-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #5 ||
 | Within a Forum there are multiple "Threads." You may reivew a Thread by clicking into it. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/05-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #6 ||
@@ -39,7 +38,7 @@ title: How to use Forums and Discussion Board Assignments in Course Builder
 | #13 ||
 | Click under the "Subject" editable field to add a Title. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/13-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #14 ||
-| You can add "Body" text for the thread in the large "Rich Text Editor" |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/14-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
+| You can add "Body" text for the thread in the large "Rich Text Editor." |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/14-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #15 ||
 | Once you are happy with your new thread, click the "Submit" button to add the Thread to the current Forum. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/15-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #16 ||
@@ -69,14 +68,4 @@ title: How to use Forums and Discussion Board Assignments in Course Builder
 | #28 ||
 | You will receive a warning message, as this action cannot be undone. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/28-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #29 ||
-| In explorer, Left Click on  pane  |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/29-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
-| #30 ||
-| In ClickDoc-Inator, Left Click on  title bar ClickDoc-Inator - ...\OleDocs\How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.BSR |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/30-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
-| #31 ||
-| In firefox, Left Click on    |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/31-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
-| #32 ||
-| In explorer, Left Click on  pane  |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/32-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
-| #33 ||
-| In ClickDoc-Inator, Left Click on  title bar ClickDoc-Inator - ...\OleDocs\How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.BSR |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/33-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
-| #34 ||
-| This concludes this guide on "How to use Forums and Discussion Board Assignments in Course Builder." |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/34-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
+| This concludes this guide on "How to use Forums and Discussion Board Assignments in Course Builder." |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/29-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
