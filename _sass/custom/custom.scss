@@ -23,8 +23,8 @@
 
 /* Headers in table */
 thead tr th {
-    font-size: $font-size-10 !important; /* Largest font size */
-    text-align: right;
+    font-size: $font-size-6 !important; /* Largest font size */
+    text-align: left;
     border-left: none !important;
     border-right: none !important;
 }
@@ -46,8 +46,15 @@ table tbody tr:nth-child(2n+1) td {
 /* Even rows (2nd, 4th, etc.) */
 table tbody tr:nth-child(2n+2) th,
 table tbody tr:nth-child(2n+2) td {
-    font-size: $font-size-6 !important; /* Smaller text size */
+    font-size: $font-size-4 !important; /* Smaller text size */
     border-bottom: 2px solid #000;
+}
+
+/* Apply styling to the second column */
+table td:nth-child(2) {
+    min-width: 350px; /* Set the minimum width */
+    width: 350px;     /* Define the standard width */
+    white-space: nowrap; /* Prevent shrinking or text wrapping */
 }
 
 
