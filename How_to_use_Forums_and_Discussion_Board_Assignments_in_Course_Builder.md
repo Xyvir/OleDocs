@@ -81,7 +81,7 @@ Alright, that's how to use the forums and discussion boards to create an opportu
 </details>
 
 | How to use Forums and Discussion Board Assignments in Course Builder ||
-|-:|-|
+|-|-|
 | #1 ||
 | Click on the "Courses" Left-Nav Item. |![](How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder-img/01-How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.png)|
 | #2 ||
