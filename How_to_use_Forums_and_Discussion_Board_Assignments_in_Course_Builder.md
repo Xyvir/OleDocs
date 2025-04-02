@@ -2,11 +2,82 @@
 layout : default
 title: How to use Forums and Discussion Board Assignments in Course Builder
 ---
-[Watch the Video](https://www.youtube.com/watch?v=###########)
+[Watch the Video](https://www.youtube.com/watch?v=eTUQvMMXua0)
 
 <details>
   <summary>Video Transcript</summary>
-  Default Spoiler Text
+  This video, I would like to show you how to make a discussion module using the assignment module format and our forum.
+
+~
+
+So, let's come back here to the assignment module. We're back here, we've opened up the assignment module, and we're going to call this discussion post.
+
+~
+
+What would come up then for the student if you're going through the course is you can have these instructions: go to the forum and answer the week one discussion post, submit a document that you've completed the assignment.
+
+~
+
+So that's one thing that the student would know that it's time now to go to the discussion post. Then, as we've seen in the way the assignment module works, afterwards the student would get a short notification: "Thank you for your submission."
+
+~
+
+Now let's go to the forum and show how that works.
+
+~
+
+We're going to go over to the home area and we're going to go through this in a minute. We're going to go to discussion right here, and here's our forums.
+
+~
+
+I'll just open these up and let you see what these look like. So here would be like week one, and we've had some different questions that you can pre-program as to when you want that.
+
+~
+
+When anyone replies, you will see this. There will be application: how would you use the audio module? I'll just say for fun, and let's see what comes up.
+
+~
+
+Then you'll see right here that someone has put their answer in. This also can tell you the time and the date that this was submitted. So, if you have a time period that they have to submit their post by, you'll be able to clarify whether that's occurred.
+
+~
+
+How do you go about making one of these? It's very simple. So let's just hit the plus button, and we're going to go down here to this forum.
+
+~
+
+We're going to give it a title. Its title is going to be "Week Three," and we're going to go ahead and save that. Then we're going to come over here to the thread and open up a thread here.
+
+~
+
+This is going to be "How would you use the multimedia module?" Any sort of question that you want, you can already have those. Then when you submit it and have it here, there it is, it's ready to go.
+
+~
+
+So this is your thread, here's what's on here, and then the students can reply to these.
+
+~
+
+This gives you an opportunity to use this for discussion, for students to come back and forth. Then when you come back here from your content, you will have created this discussion board.
+
+~
+
+That's one of the ways to do it. Now, you do not have to use this assignment module to use the discussion post. You may put something like in text, "Just go to the discussion board and answer this first question." You can do that however you want to do it.
+
+~
+
+Excuse me. Then, that's where you'll be able to see all these forums.
+
+~
+
+You can make these forums ahead of time, and you can have the dates on them. They will all open at the same time, but you can have week one, week two, week three, you can have these already done.
+
+~
+
+Alright, that's how to use the forums and discussion boards to create an opportunity for collaboration.
+
+
+(Please be aware that this video may not include all the latest updates to the software, but the core functioning is largely unchanged. There also may be some slight difference due to organization-specific customizations. First recorded June 2024.)
 </details>
 
 | How to use Forums and Discussion Board Assignments in Course Builder ||
