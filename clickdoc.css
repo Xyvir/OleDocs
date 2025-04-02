@@ -29,6 +29,7 @@ thead tr th {
 
 /* Style for odd rows (1st, 3rd, 5th, etc.) */
 tbody tr:nth-child(2n+1) {
+    text-align: left;
     font-size: 64px; /* Medium Large text */
     border-top: 2px solid #000; /* Add a top border line */
 }
