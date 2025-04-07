@@ -9,6 +9,7 @@
     ".NETCoreApp,Version=v8.0/win-x64": {
       "ClickDoc-Inator/2024.08.05.1545": {
         "dependencies": {
+          "NHunspell": "1.2.5554.16953",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.14",
           "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "8.0.14"
         },
@@ -960,6 +961,14 @@
             "fileVersion": "8.0.1425.11302"
           }
         }
+      },
+      "NHunspell/1.2.5554.16953": {
+        "runtime": {
+          "lib/net/NHunspell.dll": {
+            "assemblyVersion": "1.2.5554.16953",
+            "fileVersion": "1.2.5554.16953"
+          }
+        }
       }
     }
   },
@@ -978,6 +987,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "NHunspell/1.2.5554.16953": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B2tr5kfwHu0jan5Gd3JEWdJkDVJxGAXmA230y0XeqJcL4zdZWk8Bmw9LVQ3p9/qKuun/7+FemxjspbjcTLGp6g==",
+      "path": "nhunspell/1.2.5554.16953",
+      "hashPath": "nhunspell.1.2.5554.16953.nupkg.sha512"
     }
   },
   "runtimes": {
