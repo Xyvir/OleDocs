@@ -17,9 +17,14 @@
 {%- endcomment -%}
 
 <script>
-    if (window.self !== window.top) {
-        document.querySelector(".side-bar").style.display = "none";
+document.addEventListener("DOMContentLoaded", () => {
+    const sidebar = document.querySelector(".side-bar");
+    if (sidebar) {
+        sidebar.style.display = "none";
+    } else {
+        console.log("Sidebar not found");
     }
+});
 </script>
 
 
