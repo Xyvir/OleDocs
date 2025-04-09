@@ -18,9 +18,10 @@
 
 <script>
     if (window.self !== window.top) {
-        document.documentElement.classList.add("in-iframe");
+        document.querySelector(".side-bar").style.display = "none";
     }
 </script>
+
 
 <div class="side-bar">
   <div class="site-header" role="banner">
