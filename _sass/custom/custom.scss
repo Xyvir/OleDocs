@@ -6,11 +6,6 @@
       border-radius: 10px; /* Adjust the value for more or less rounding */
     }
 
-    /* Hide the sidebar when viewed inside an iframe */
-    .in-iframe #side-bar {
-    display: none;
-    }
-
     /* Apply the font to the entire page */
     body {
         font-family: 'Atkinson Hyperlegible', sans-serif;
