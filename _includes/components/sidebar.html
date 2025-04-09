@@ -18,11 +18,13 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    const sidebar = document.querySelector(".side-bar");
-    if (sidebar) {
-        sidebar.style.display = "none";
-    } else {
-        console.log("Sidebar not found");
+    if (window.self !== window.top) { // Confirms it's inside an iframe
+        const sidebar = document.querySelector(".side-bar");
+        if (sidebar) {
+            sidebar.style.display = "none";
+        } else {
+            console.log("Sidebar not found");
+        }
     }
 });
 </script>
