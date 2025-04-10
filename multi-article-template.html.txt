@@ -1,47 +1,80 @@
-<div class="sheet" data-sheet-number="1">
-  <p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </p>
-</div>
+    
+   
+
+    <title>Article Viewer</title>
+	
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+        iframe {
+            width: 100%;
+            height: auto;
+            min-height: 500px;
+            border: none;
+        }
+
+        summary {
+            font-size: 1.5em !important;
+            font-weight: bold !important;
+	    font-family: "Atkinson Hyperlegible", sans-serif
+        }
+
+        .divider {
+            width: 100%;
+            border: none;
+            border-top: 2px solid #ccc;
+            margin: 5px 0;
+        }
+    </style>
 
 
-<title></title>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        class ArticleFrame extends HTMLElement {
+            constructor() {
+                super();
+                const title = this.getAttribute("title");
+                const iframeSrc = this.getAttribute("src");
+
+                this.innerHTML = `
+                    <hr class="divider">
+		    <details>
+                        <summary>${title}</summary>
+                        <iframe src="${iframeSrc}"></iframe>
+                    </details>
+                `;
+            }
+        }
+
+        customElements.define("article-frame", ArticleFrame);
+    });
+</script>
 
 
-<style type="text/css">iframe {
-  width: 100%;
-  height: auto;
-  min-height: 500px;
-  /* Adjust as needed */
-  border: none;
-  }
-</style>
+</head>
 
-<h3>Article 1
-</h3>
-<p>
-  <iframe id="iframe1" src="https://xyvir.github.io/OleDocs/How_to_Enroll_Students_in_Classes_or_Programs,_and_How_to_Allow_Self-Enrollment.html">
-  </iframe>
-</p>
-<h3>Article 2
-</h3>
-<p>
-  <iframe id="iframe2" src="https://xyvir.github.io/OleDocs/How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.html">
-  </iframe>
+<!-- Start content here -->
 
-  
-  <script>
-    function resizeIframe(iframe) {
-      iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    window.onload = function() {
-      document.getElementById('iframe1').onload = function() { resizeIframe(this); };
-      document.getElementById('iframe2').onload = function() { resizeIframe(this); };
-    };
-  </script>
+<body>
 
-  
-</p>
-<p>
-</p>
+    <article-frame 
+    title="Article 1"
+    src="https://xyvir.github.io/OleDocs/How_to_Enroll_Students_in_Classes_or_Programs,_and_How_to_Allow_Self-Enrollment.html">
+    </article-frame>
+
+    <article-frame 
+    title="Article 2"
+    src="https://xyvir.github.io/OleDocs/How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.html">
+    </article-frame>
+
+<!-- End comment here -->
+
+<hr class="divider">
+</body>
+</html>
