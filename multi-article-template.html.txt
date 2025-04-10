@@ -1,0 +1,47 @@
+<div class="sheet" data-sheet-number="1">
+  <p>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </p>
+</div>
+
+
+<title></title>
+
+
+<style type="text/css">iframe {
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  /* Adjust as needed */
+  border: none;
+  }
+</style>
+
+<h3>Article 1
+</h3>
+<p>
+  <iframe id="iframe1" src="https://xyvir.github.io/OleDocs/How_to_Enroll_Students_in_Classes_or_Programs,_and_How_to_Allow_Self-Enrollment.html">
+  </iframe>
+</p>
+<h3>Article 2
+</h3>
+<p>
+  <iframe id="iframe2" src="https://xyvir.github.io/OleDocs/How_to_use_Forums_and_Discussion_Board_Assignments_in_Course_Builder.html">
+  </iframe>
+
+  
+  <script>
+    function resizeIframe(iframe) {
+      iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    window.onload = function() {
+      document.getElementById('iframe1').onload = function() { resizeIframe(this); };
+      document.getElementById('iframe2').onload = function() { resizeIframe(this); };
+    };
+  </script>
+
+  
+</p>
+<p>
+</p>
