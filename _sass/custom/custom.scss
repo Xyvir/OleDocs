@@ -5,8 +5,10 @@
           width: fit-content !important;
         }
 
+        @media (min-width: 66.5rem) {
         .side-bar {
-          width: 20rem !important;
+            width: 20rem !important;
+            }
         }
 
     /* Round Image Corners & add shadow */
