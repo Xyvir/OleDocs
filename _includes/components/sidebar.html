@@ -17,18 +17,20 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    if (window.self !== window.top) {
+    if (window.self !== window.top) { // Check if inside an iframe
         const sidebar = document.querySelector(".side-bar");
         if (sidebar) {
             sidebar.style.display = "none";
         } else {
             console.log("Sidebar not found");
         }
-      const search = document.querySelector(".search");
+
+        const search = document.querySelector(".search");
         if (search) {
             search.style.display = "none";
         } else {
             console.log("Search bar not found");
+        } // <-- This closing brace was missing
     }
 });
 </script>
