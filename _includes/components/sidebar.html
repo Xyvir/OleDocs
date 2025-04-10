@@ -12,7 +12,7 @@
 
 {%- comment -%} 
   This script checks if the page is running inside an iframe with the doncitional.
-  If it is, the the side-bar element visibility is set to none.
+  If it is, the the side-bar and search element visibility is set to none.
 {%- endcomment -%}
 
 <script>
@@ -24,6 +24,11 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             console.log("Sidebar not found");
         }
+      const search = document.querySelector(".search");
+        if (search) {
+            search.style.display = "none";
+        } else {
+            console.log("Search bar not found");
     }
 });
 </script>
