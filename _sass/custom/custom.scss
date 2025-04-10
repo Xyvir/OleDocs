@@ -1,6 +1,12 @@
     /* Import Atkinson Hyperlegible font from Google Fonts */
     @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
+        @media screen and (max-width: 66.5rem) {
+          .site-nav {
+            width: fit-content;
+          }
+        }
+
     /* Round Image Corners & add shadow */
         img {
           border-radius: 10px;
