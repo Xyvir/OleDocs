@@ -2,11 +2,44 @@
 layout : default
 title: How to Use GPA Calculations in Academic Settings
 ---
+[Watch the Video](https://www.youtube.com/watch?v=gGryYP0Qc1c)
+
+<details>
+  <summary>Video Transcript</summary>
+  I'd like to show you two other settings that you will need to be able to use fairly quickly that are found in the academic settings portion.
+
+~
+
+To review, you're in administrator, you're in the branch. You come here, you come to academic settings. Now, this is going to give you almost everything you're going to need to run your school. As you can see, it gives you instructor settings, GPA calculations, transcripts, student custom fields, and the course scheduler.
+
+~
+
+I'm going to show you today the GPA calculations and the course scheduler because those are two that you're going to need fairly quickly before you start having classes.
+
+~
+
+All right, let's go to the GPA calculations. Right here you see I have got an undergraduate group and I have my current settings. I'm showing my current GPA calculations. Now you can have ones from prior years too, so it can tell you if you might have had different calculations of A's and B's or whatever from prior years. You would just label those like "1998 calculations."
+
+~
+
+Let's just add a different group. We're going to go ahead and add the graduate school. You can add any of these, as you can see. This one doesn't have anything to get started, so let's get started. Let's give it a calculation. We're going to be looking at the current ones as well. When we add those, it's going to be able to give us the calculations.
+
+~
+
+You hit this arrow, and now here we are. We're going to enter a letter grade. We're going to enter an A. What's my minimum grade for this? 94. What's the maximum grade? 100. What is the GPA number? This is worth four points. I'm going to add that. Then you can continue to save this, and you can continue to build your GPA calculations from both sides, undergraduate and graduate.
+
+~
+
+You can have as many groups as you want. You might have dual credit, and it might have a different level of GPA than undergraduate. You can build this as far as you want. This is what you're going to want to know for sure on how to use the GPA calculations.
+
+
+(Please be aware that this video may not include all the latest updates to the software, but the core functioning is largely unchanged. There also may be some slight difference due to organization-specific customizations. First recorded Jan. 2024.)
+</details>
 
 | How to Use GPA Calculations in Academic Settings ||
 |-|-|
 | #1 ||
-|  Click on the 'Organization' Left-Nav Menu Icon. |![](shared/organization.png)|
+|   Click on the 'Organization' Left-Nav Menu Icon. |![](shared/Organization.png)|
 | #2 ||
 |  Click on the 'Academic Settings' Button. |![](shared/-Academic_Settings.png)|
 | #3 ||
