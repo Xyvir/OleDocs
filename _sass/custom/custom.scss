@@ -2,10 +2,10 @@
     @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
     /* Round Image Corners & add shadow */
-    img {
-      border-radius: 10px; /* Adjust for more or less rounding */
-      box-shadow: 8px 8px 0px #888888; /* Offset shadow slightly to appear natural */
-    }
+        img {
+          border-radius: 10px;
+          box-shadow: 10px 10px 20px -5px #888888;
+        }
 
     /* Apply the font to the entire page */
     body {
