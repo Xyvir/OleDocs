@@ -17,7 +17,7 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    if (window.self !== window.top) { // Check if inside an iframe
+    if (window.self !== window.top) {
         const sidebar = document.querySelector(".side-bar");
         if (sidebar) {
             sidebar.style.display = "none";
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
             search.style.display = "none";
         } else {
             console.log("Search bar not found");
-        } // <-- This closing brace was missing
+        }
     }
 });
 </script>
