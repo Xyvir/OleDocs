@@ -11,14 +11,13 @@
 
 
 {%- comment -%} 
-  This script checks if the page is running inside an iframe. 
-  If it is, the "in-iframe" class is added to the <html> element. 
-  This allows CSS to hide certain elements when the site is embedded. 
+  This script checks if the page is running inside an iframe with the doncitional.
+  If it is, the the side-bar element visibility is set to none.
 {%- endcomment -%}
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    if (window.self !== window.top) { // Confirms it's inside an iframe
+    if (window.self !== window.top) {
         const sidebar = document.querySelector(".side-bar");
         if (sidebar) {
             sidebar.style.display = "none";
