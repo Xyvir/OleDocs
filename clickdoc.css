@@ -9,6 +9,12 @@ body {
     box-sizing: border-box; /* Ensure padding doesn't affect table width */
 }
 
+/* Round Image Corners & add shadow */
+img {
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 3px #888888;
+}
+
 /* Ensure the table takes full width of the available space */
 table {
     border-collapse: collapse;
