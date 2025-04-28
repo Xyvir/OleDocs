@@ -41,7 +41,7 @@ You can have as many groups as you want. You might have dual credit, and it migh
 | #1 ||
 |   Click on the 'Organization' Left-Nav Menu Icon. |![](shared/Organization.png)|
 | #2 ||
-|  Click on the 'Academic Settings' Button. |![](shared/-Academic_Settings.png)|
+|  Click on the 'Academic Settings' Button. |![](shared/o-academic_settings.png)|
 | #3 ||
 | Click on the 'GPA Calculations' Button. |![](How_to_Use_GPA_Calculations_in_Academic_Settings-img/03-How_to_Use_GPA_Calculations_in_Academic_Settings.png)|
 | #4 ||

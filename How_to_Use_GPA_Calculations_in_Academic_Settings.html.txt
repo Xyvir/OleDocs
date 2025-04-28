@@ -1,0 +1,303 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://xyvir.github.io/OleDocs/">
+<link rel="stylesheet" href="clickdoc.css">
+</head>
+<p><a href="https://www.youtube.com/watch?v=gGryYP0Qc1c">Watch the
+Video</a></p>
+<details>
+<summary>
+Video Transcript
+</summary>
+<p>I’d like to show you two other settings that you will need to be able
+to use fairly quickly that are found in the academic settings
+portion.</p>
+<p>~</p>
+<p>To review, you’re in administrator, you’re in the branch. You come
+here, you come to academic settings. Now, this is going to give you
+almost everything you’re going to need to run your school. As you can
+see, it gives you instructor settings, GPA calculations, transcripts,
+student custom fields, and the course scheduler.</p>
+<p>~</p>
+<p>I’m going to show you today the GPA calculations and the course
+scheduler because those are two that you’re going to need fairly quickly
+before you start having classes.</p>
+<p>~</p>
+<p>All right, let’s go to the GPA calculations. Right here you see I
+have got an undergraduate group and I have my current settings. I’m
+showing my current GPA calculations. Now you can have ones from prior
+years too, so it can tell you if you might have had different
+calculations of A’s and B’s or whatever from prior years. You would just
+label those like “1998 calculations.”</p>
+<p>~</p>
+<p>Let’s just add a different group. We’re going to go ahead and add the
+graduate school. You can add any of these, as you can see. This one
+doesn’t have anything to get started, so let’s get started. Let’s give
+it a calculation. We’re going to be looking at the current ones as well.
+When we add those, it’s going to be able to give us the
+calculations.</p>
+<p>~</p>
+<p>You hit this arrow, and now here we are. We’re going to enter a
+letter grade. We’re going to enter an A. What’s my minimum grade for
+this? 94. What’s the maximum grade? 100. What is the GPA number? This is
+worth four points. I’m going to add that. Then you can continue to save
+this, and you can continue to build your GPA calculations from both
+sides, undergraduate and graduate.</p>
+<p>~</p>
+<p>You can have as many groups as you want. You might have dual credit,
+and it might have a different level of GPA than undergraduate. You can
+build this as far as you want. This is what you’re going to want to know
+for sure on how to use the GPA calculations.</p>
+(Please be aware that this video may not include all the latest updates
+to the software, but the core functioning is largely unchanged. There
+also may be some slight difference due to organization-specific
+customizations. First recorded Jan. 2024.)
+</details>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>How to Use GPA Calculations in Academic Settings</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#1</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Organization’ Left-Nav Menu Icon.</td>
+<td><img src="shared/Organization.png" /></td>
+</tr>
+<tr>
+<td>#2</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Academic Settings’ Button.</td>
+<td><img src="shared/o-academic_settings.png" /></td>
+</tr>
+<tr>
+<td>#3</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘GPA Calculations’ Button.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/03-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#4</td>
+<td></td>
+</tr>
+<tr>
+<td>In this view you can see any existing GPA Calculation Groups.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/04-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#5</td>
+<td></td>
+</tr>
+<tr>
+<td>To add a new ‘GPA Calculations’ Group, click the blue ‘+ Add Group’
+Button.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/05-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#6</td>
+<td></td>
+</tr>
+<tr>
+<td>Next, click on the ‘GPA Calcuation Group’ text field and enter the
+desired name. For example, ‘Gradual School’ or ‘Dual Credit’</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/06-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#7</td>
+<td></td>
+</tr>
+<tr>
+<td>Once you have selected and typed a Group Title, click on the ‘+ Add’
+Button to add the GPA Calculation Group to the list.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/07-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>Note:</td>
+<td></td>
+</tr>
+<tr>
+<td>Whatever Title you choose for your ‘GPA Calculations’ Group will
+ultimately be visible on the student’s transcript.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/08Note-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#8</td>
+<td></td>
+</tr>
+<tr>
+<td>Once the New Group has been added, click ‘Add Stack’ icon to add a
+GPA Subgroup. GPA Subgroups can be used in instances where an
+institution changes it’s grading scale , such that prior students
+transcripts and GPAs are not retroactively recalculated based on the new
+scale.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/08-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#9</td>
+<td></td>
+</tr>
+<tr>
+<td>Next, click on the ‘GPA Calcuation Group’ text field and enter the
+desired name. If there is only one subgroup needed, it is recommended to
+name it the same as the parent group. If there is multiple subgroups
+needed, it’s recommended to name them based on a time-frame; for example
+‘2024-Current’ or ‘Before 2022’ and so on.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/09-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>Note:</td>
+<td></td>
+</tr>
+<tr>
+<td>Unlike the parent GPA Calculations Group title, the child GPA
+Calculation subgroup will not be visible on the students’
+transcript.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/10Note-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#10</td>
+<td></td>
+</tr>
+<tr>
+<td>Once you have selected a subgroup title, click the ‘+ Add’ button to
+add it to the GPA Caclulation Group Parent.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/10-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#11</td>
+<td></td>
+</tr>
+<tr>
+<td>Next click the down arrow next to the new Subgroup to expand the new
+GPA subcategory.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/11-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#12</td>
+<td></td>
+</tr>
+<tr>
+<td>Next, click the ‘Add Stack’ button next to the new Subgroup to add a
+new Letter Grade Category.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/12-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#13</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Letter Grade’ text box and enter the letter grade, for
+example, ‘A’ or ‘B’.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/13-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#14</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Min Grade’ text box and enter the minimum grade for
+the given Grade Letter, for example, ‘70’ or ‘80’.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/14-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#15</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Max Grade’ text box and enter the maximum grade for
+the given Letter Grade, for example, ‘90’ or ‘100’.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/15-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#16</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the edit ‘GPA Number’ text field and enter the desired
+grade points, for example ‘3.0’ or ‘4.0’</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/16-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#17</td>
+<td></td>
+</tr>
+<tr>
+<td>Once you are happy with all fields, click the ‘+ Add’ button to add
+the current calculation to the subgroup.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/17-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#18</td>
+<td></td>
+</tr>
+<tr>
+<td>After clicking ‘+ Add’ another empty row of letter grade fields will
+be automatically added. Repeat steps 15-19 untill all releveant Letter
+Grade categories have been added.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/18-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#19</td>
+<td></td>
+</tr>
+<tr>
+<td>Please take note of some of the additional icons, the Ssetting Gear’
+contains additional settings per GPA Calculation Group and the ‘Trash
+Can’ icon can be used to delete Groups or Subgroups.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/19-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>#20</td>
+<td></td>
+</tr>
+<tr>
+<td>Similarly, the Letter Grades rows have their own set of icons for
+editing, saving, and removing the letter grades.</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/20-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+<tr>
+<td>Finish:</td>
+<td></td>
+</tr>
+<tr>
+<td>This concludes the guide on ‘How to Use GPA Calculations in Academic
+Settings’</td>
+<td><img
+src="How_to_Use_GPA_Calculations_in_Academic_Settings-img/21Finish-How_to_Use_GPA_Calculations_in_Academic_Settings.png" /></td>
+</tr>
+</tbody>
+</table>
