@@ -62,15 +62,12 @@ table tbody tr:nth-child(2n+2) td {
     border-bottom: 2px solid #000;
 }
 
-/* Apply styling to the second column */
-table td:nth-child(2) {
-    min-width: 350px; /* Set the minimum width */
-    width: 350px;     /* Define the standard width */
-    white-space: nowrap; /* Prevent shrinking or text wrapping */
-}
-
 /* Print-specific formatting */
 @media print {
+    table tbody tr:nth-child(4n) td:last-child { 
+        margin-bottom: 1em !important; /* Adds space before page break */
+    }
+
     table tbody tr:nth-child(4n+1) {
         page-break-before: always !important; /* Forces a page break before every 5th row */
     }
