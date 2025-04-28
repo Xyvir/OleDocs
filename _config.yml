@@ -1,8 +1,14 @@
 title: Ole Docs
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Offsite mirror of Ole User Documents.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://xyvir.github.io/OleDocs/
 
 sass:
   custom: "_sass/custom/custom.scss"
+
+  collections:
+  desktop:
+    output: true
+  mobile:
+    output: true
