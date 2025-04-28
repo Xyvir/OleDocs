@@ -44,7 +44,7 @@ So let's review: you have created the application, students have applied, you ha
 | How to Enroll Students in Classes or Programs, and How to Allow Self-Enrollment ||
 |-|-|
 | #1 ||
-|  Click on the User Left-Nav Menu Icon. |![](shared/Users.png)|
+|  Click on the User Left-Nav Menu Icon. |![](shared/users.png)|
 | #2 ||
 | Navigate to a Student who you would like to enroll in Courses or Programs. |![](How_to_Enroll_Students_in_Classes_or_Programs,_and_How_to_Allow_Self-Enrollment-img/02-How_to_Enroll_Students_in_Classes_or_Programs,_and_How_to_Allow_Self-Enrollment.png)|
 | #3 ||
