@@ -7,7 +7,7 @@ nav_order: 1
 | Mobile Overview ||
 |-|-|
 | #1 ||
-| The Left-Nave Menu Icons from Desktop are located under the left-hand 'Hamburger Button' |![](Mobile_Overview-img/01-Mobile_Overview.png)|
+| The Left-Nav Menu Icons from Desktop are located under the left-hand 'Hamburger Button' |![](Mobile_Overview-img/01-Mobile_Overview.png)|
 | #2 ||
 | A Student will have 'Messages' and 'Forums' available here. |![](Mobile_Overview-img/02-Mobile_Overview.png)|
 | #3 ||
