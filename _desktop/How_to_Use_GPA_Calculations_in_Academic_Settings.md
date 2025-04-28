@@ -1,6 +1,7 @@
 ---
 layout : default
 title: How to Use GPA Calculations in Academic Settings
+parent: Organization
 ---
 [Watch the Video](https://www.youtube.com/watch?v=gGryYP0Qc1c)
 

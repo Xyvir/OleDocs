@@ -1,6 +1,7 @@
 ---
 layout : default
 title: How to use Forums and Discussion Board Assignments in Course Builder
+parent: Courses
 ---
 [Watch the Video](https://www.youtube.com/watch?v=eTUQvMMXua0)
 

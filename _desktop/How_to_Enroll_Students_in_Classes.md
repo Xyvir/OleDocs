@@ -1,6 +1,7 @@
 ---
 layout : default
 title: How to Enroll Students in Classes
+parent: Users
 ---
 
 | How to Enroll Students in Classes ||
