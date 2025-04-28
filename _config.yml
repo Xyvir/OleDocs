@@ -7,8 +7,17 @@ url: https://xyvir.github.io/OleDocs/
 sass:
   custom: "_sass/custom/custom.scss"
 
-  collections:
+collections:
   desktop:
     output: true
   mobile:
     output: true
+
+just_the_docs:
+  collections:
+    desktop:
+      name: Desktop Docs
+      nav_fold: true  # Makes it collapsible
+    mobile:
+      name: Mobile Docs
+      nav_fold: true  # Makes it collapsible
