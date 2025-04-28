@@ -71,11 +71,10 @@ table td:nth-child(2) {
 
 
 /* Print-specific formatting */
-/* Print-specific formatting */
 @media print {
     /* Maintain page breaks every 4th row */
     table tbody tr:nth-child(4n+1) {
-        page-break-before: always !important; /* Forces a new page */
+        page-break-before: always !important;
     }
 
     /* Remove all shadows and blur effects for printing */
@@ -89,8 +88,12 @@ table td:nth-child(2) {
         box-shadow: none !important;
     }
 
-    /* Hide all elements EXCEPT the table */
-    body *:not(table):not(table *) {
+    /* Hide specific elements when printing */
+    .breadcrumb-nav,
+    .breadcrumb-nav-list,
+    .breadcrumb-nav-list-item,
+    p a[href*="youtube.com"],
+    details {
         display: none !important;
     }
 }
