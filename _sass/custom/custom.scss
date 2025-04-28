@@ -69,17 +69,14 @@ table td:nth-child(2) {
     white-space: nowrap; /* Prevent shrinking or text wrapping */
 }
 
+/* Print-specific formatting */
 @media print {
-    /* Add blank space after a forced page break */
-    table tbody tr:nth-child(4n+1)::after {
-        content: "";
-        display: block;
-        height: 100vh; /* Push remainder of the page blank */
+    table tbody tr:nth-child(4n) { 
+        padding-bottom: 1em !important; /* Adds space before page break */
+        display: block; /* Ensures padding applies */
     }
 
-    /* Temporarily hide the table after the page break */
-    table tbody tr:nth-child(4n+1) ~ tr {
-        visibility: hidden !important; /* Keeps the space but removes the table rendering */
+    table tbody tr:nth-child(4n+1) {
+        page-break-before: always !important; /* Forces a page break before every 5th row */
     }
 }
-
