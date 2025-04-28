@@ -69,9 +69,22 @@ table td:nth-child(2) {
     white-space: nowrap; /* Prevent shrinking or text wrapping */
 }
 
+
 /* Print-specific formatting */
 @media print {
+    /* Maintain page breaks every 4th row */
     table tbody tr:nth-child(4n+1) {
-        page-break-before: always !important; /* Forces a page break before every 5th row */
+        page-break-before: always !important; /* Forces a new page */
+    }
+
+    /* Remove all shadows and blur effects for printing */
+    * {
+        text-shadow: none !important; /* Removes text shadows */
+        box-shadow: none !important; /* Removes element shadows */
+        filter: none !important; /* Removes blur or extra effects */
+    }
+
+    img {
+        box-shadow: none !important; /* Ensure images print clean */
     }
 }
