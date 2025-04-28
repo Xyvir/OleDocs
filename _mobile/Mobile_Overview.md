@@ -1,7 +1,6 @@
 ---
 layout : default
 title: Mobile Overview
-parent: Mobile
 ---
 
 | Mobile Overview ||
