@@ -1,7 +1,6 @@
 ---
 layout : default
 title: How to Enroll Students in Classes
-parent: Desktop
 ---
 
 | How to Enroll Students in Classes ||
