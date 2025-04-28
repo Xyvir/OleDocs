@@ -64,11 +64,15 @@ table tbody tr:nth-child(2n+2) td {
 
 /* Print-specific formatting */
 @media print {
-    table tbody tr:nth-child(4n) td:last-child { 
-        margin-bottom: 1em !important; /* Adds space before page break */
+    /* Increase cell height */
+    table td, table th {
+        padding-top: 5% !important;  /* Adds vertical space */
+        padding-bottom: 5% !important; /* Keeps spacing uniform */
+        line-height: 1.3 !important; /* Slightly increases text spacing */
     }
 
+    /* Maintain page breaks every 4th row */
     table tbody tr:nth-child(4n+1) {
-        page-break-before: always !important; /* Forces a page break before every 5th row */
+        page-break-before: always !important; /* Forces a new page */
     }
 }
