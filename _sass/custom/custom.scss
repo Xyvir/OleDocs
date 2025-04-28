@@ -71,6 +71,7 @@ table td:nth-child(2) {
 
 
 /* Print-specific formatting */
+/* Print-specific formatting */
 @media print {
     /* Maintain page breaks every 4th row */
     table tbody tr:nth-child(4n+1) {
@@ -79,21 +80,17 @@ table td:nth-child(2) {
 
     /* Remove all shadows and blur effects for printing */
     * {
-        text-shadow: none !important; /* Removes text shadows */
-        box-shadow: none !important; /* Removes element shadows */
-        filter: none !important; /* Removes blur or extra effects */
+        text-shadow: none !important;
+        box-shadow: none !important;
+        filter: none !important;
     }
 
     img {
-        box-shadow: none !important; /* Ensure images print clean */
+        box-shadow: none !important;
     }
 
-    /* Hide all elements except the table */
-    body * {
+    /* Hide all elements EXCEPT the table */
+    body *:not(table):not(table *) {
         display: none !important;
-    }
-
-    table {
-        display: table !important; /* Ensure the table remains visible */
     }
 }
