@@ -1,4 +1,4 @@
-    /* Import Atkinson Hyperlegible font from Google Fonts */
+  /* Import Atkinson Hyperlegible font from Google Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
 @media (min-width: 66.5rem) {
@@ -62,10 +62,16 @@ table tbody tr:nth-child(2n+2) td {
     border-bottom: 2px solid #000;
 }
 
+/* Apply styling to the second column */
+table td:nth-child(2) {
+    min-width: 350px; /* Set the minimum width */
+    width: 350px;     /* Define the standard width */
+    white-space: nowrap; /* Prevent shrinking or text wrapping */
+}
+
 /* Print-specific formatting */
 @media print {
-    /* Maintain page breaks every 4th row */
     table tbody tr:nth-child(4n+1) {
-        page-break-before: always !important; /* Forces a new page */
+        page-break-before: always !important; /* Forces a page break before every 5th row */
     }
 }
