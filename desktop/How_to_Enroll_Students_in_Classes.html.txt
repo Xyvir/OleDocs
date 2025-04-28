@@ -1,0 +1,100 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://xyvir.github.io/OleDocs/">
+<link rel="stylesheet" href="clickdoc.css">
+</head>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>How to Enroll Students in Classes</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#1</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Users’ Left-Nav Icon.</td>
+<td><img src="shared/users.png" /></td>
+</tr>
+<tr>
+<td>#2</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Student’ user you would like to edit.</td>
+<td><img src="shared/u-john_smith.png" /></td>
+</tr>
+<tr>
+<td>#3</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Access Student Records’ from the user’s Profile
+Home.</td>
+<td><img src="shared/u-student_records.png" /></td>
+</tr>
+<tr>
+<td>#4</td>
+<td></td>
+</tr>
+<tr>
+<td>Click on the ‘Courses’ Tab within Student Records.</td>
+<td><img src="shared/sr-courses.png" /></td>
+</tr>
+<tr>
+<td>#5</td>
+<td></td>
+</tr>
+<tr>
+<td>In msedge, Left Click on group</td>
+<td><img
+src="How_to_Enroll_Students_in_Classes-img/05-How_to_Enroll_Students_in_Classes.png" /></td>
+</tr>
+<tr>
+<td>#6</td>
+<td></td>
+</tr>
+<tr>
+<td>In msedge, Left Click on button Enroll in course</td>
+<td><img
+src="How_to_Enroll_Students_in_Classes-img/06-How_to_Enroll_Students_in_Classes.png" /></td>
+</tr>
+<tr>
+<td>#7</td>
+<td></td>
+</tr>
+<tr>
+<td>In msedge, Left Click on edit Search</td>
+<td><img
+src="How_to_Enroll_Students_in_Classes-img/07-How_to_Enroll_Students_in_Classes.png" /></td>
+</tr>
+<tr>
+<td>#8</td>
+<td></td>
+</tr>
+<tr>
+<td>In msedge, Left Click on button Enroll</td>
+<td><img
+src="How_to_Enroll_Students_in_Classes-img/08-How_to_Enroll_Students_in_Classes.png" /></td>
+</tr>
+<tr>
+<td>Finish:</td>
+<td></td>
+</tr>
+<tr>
+<td>You will Return to the student’s ‘Courses’ tab; and you can verify
+the class you enrolled them in now appears in this view. This concludes
+the guide on “How to Enroll Students in Classes or Programs”</td>
+<td><img
+src="How_to_Enroll_Students_in_Classes-img/09Finish-How_to_Enroll_Students_in_Classes.png" /></td>
+</tr>
+</tbody>
+</table>
