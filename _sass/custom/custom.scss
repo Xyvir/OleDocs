@@ -34,12 +34,16 @@
     }
 
 /* Headers in table */
-thead tr th {
-    font-size: $font-size-6 !important; /* Largest font size */
-    text-align: left;
-    border-left: none !important;
-    border-right: none !important;
+/* Merge first two header columns visually */
+thead tr th:first-child {
+    width: calc(200% + 10px) !important; /* Make it span two columns */
+    text-align: center !important;
 }
+
+thead tr th:nth-child(2) {
+    display: hidden !important; /* Hide second column header */
+}
+
 
 table th, 
 table td {
