@@ -1,18 +1,11 @@
     /* Import Atkinson Hyperlegible font from Google Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
-
-.site-nav {
-          width: -webkit-fill-available !important;
-        }
-/*
 @media (min-width: 66.5rem) {
-        .side-bar {
-            width: 20rem !important;
-            }
+    .site-nav, .site-header, .site-footer {
+        width: -webkit-fill-available !important;
+    }
 }
-*/
-
 
     /* Round Image Corners & add shadow */
         img {
