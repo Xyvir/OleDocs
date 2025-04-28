@@ -1,6 +1,7 @@
 ---
 layout : default
 title: How to Enroll Students in Classes or Programs, and How to Allow Self-Enrollment
+parent: Desktop
 ---
 [Watch the Video](https://www.youtube.com/watch?v=kqP79bdcFq4)
 
