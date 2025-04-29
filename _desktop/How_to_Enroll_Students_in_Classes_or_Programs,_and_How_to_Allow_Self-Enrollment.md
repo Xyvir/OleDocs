@@ -42,7 +42,7 @@ So let's review: you have created the application, students have applied, you ha
 (Please be aware that this video may not include all the latest updates to the software, but the core functioning is largely unchanged. There also may be some slight difference due to organization-specific customizations. First recorded April 2024.)
 </details>
 
-| How to Enroll Students in Classes or Programs, and How to Allow Self-Enrollment ||
+| How to Enroll Students in Classes or Programs, | and How to Allow Self-Enrollment|
 |-|-|
 | #1 ||
 |  Click on the User Left-Nav Menu Icon. |![](shared/users.png)|
