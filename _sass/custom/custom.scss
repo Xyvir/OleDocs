@@ -1,4 +1,4 @@
-    /* Import Atkinson Hyperlegible font from Google Fonts */
+  /* Import Atkinson Hyperlegible font from Google Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
 @media (min-width: 66.5rem) {
@@ -70,3 +70,30 @@ table td:nth-child(2) {
 }
 
 
+/* Print-specific formatting */
+@media print {
+    /* Maintain page breaks every 4th row */
+    table tbody tr:nth-child(4n+1) {
+        page-break-before: always !important;
+    }
+
+    /* Remove all shadows and blur effects for printing */
+    * {
+        text-shadow: none !important;
+        box-shadow: none !important;
+        filter: none !important;
+    }
+
+    img {
+        box-shadow: none !important;
+    }
+
+    /* Hide specific elements when printing */
+    .breadcrumb-nav,
+    .breadcrumb-nav-list,
+    .breadcrumb-nav-list-item,
+    p a[href*="youtube.com"],
+    details {
+        display: none !important;
+    }
+}
